@@ -1,0 +1,31 @@
+You've learned a lot about web development so far. 
+I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+  
+
+* What new skills have you learned?
+  
+I think problem solving was the big part because its hard when you can't find someone to talk to and you need to look at the internet for answer. 
+
+
+* What has been easy?
+  
+I think putting the <p> tag was not that hard and knowing where to put it. 
+
+
+
+* What has been difficult?
+  
+when you trying to solve the img tag I got confusing using <a href> vs img src.  
+
+
+
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+looking through google search was a big one. For example I put in how to make a line in HTML and the <hr> came up and from then on i try using it and it works. 
+
+
+
+
